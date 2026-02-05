@@ -1,2 +1,6 @@
-# coding-daily-log
-Daily DSA practice using Java
+# Arrays
+
+## Problems Solved
+| Day | Problem |
+|----|--------|
+| Day 01 | Reverse an Array |
